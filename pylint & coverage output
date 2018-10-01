@@ -1,0 +1,24 @@
+
+C:\Users\Test\Documents\Fall 2018\Software Testing\hw 2\Triangle567>python -m pylint test_triangle.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+C:\Users\Test\Documents\Fall 2018\Software Testing\hw 2\Triangle567>python -m coverage run test_triangle.py
+Running unit tests
+.........
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK
+
+C:\Users\Test\Documents\Fall 2018\Software Testing\hw 2\Triangle567>python -m coverage report
+Name               Stmts   Miss  Cover
+--------------------------------------
+test_triangle.py      24      0   100%
+triangle.py           16      0   100%
+--------------------------------------
+TOTAL                 40      0   100%
+
+C:\Users\Test\Documents\Fall 2018\Software Testing\hw 2\Triangle567>
